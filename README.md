@@ -34,9 +34,15 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 
 ---
 
-## 📦 Installation
+## 📦  Setup Instructions
+
+1. **Prerequisites**
+   Ensure your system has the following installed:
+
+   - Python (>=3.8 recommended)
+   - pip (Python package manager)
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/resume-screening-ai.git
-   cd resume-screening-ai
+   git clone https://github.com/hemenpatel68/AI-powered-Resume-Screening-and-Ranking-System
+   cd resume-ranker
