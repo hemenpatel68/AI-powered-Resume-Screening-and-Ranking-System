@@ -74,5 +74,5 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 
 ## 🖥️ Demo
 
-![screenshot](https://via.placeholder.com/1000x400.png?text=Demo+Screenshot+Placeholder)  
+![screenshot](assets/Resume-Screening-System-1.png)  
 *(Replace this with an actual screenshot of your app!)*
