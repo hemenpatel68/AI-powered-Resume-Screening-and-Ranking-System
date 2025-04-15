@@ -42,7 +42,21 @@ An intelligent web application built with **Python** and **Streamlit** that auto
    - Python (>=3.8 recommended)
    - pip (Python package manager)
 
-1. **Clone the repo**
+2. **Clone the repo**
    ```bash
    git clone https://github.com/hemenpatel68/AI-powered-Resume-Screening-and-Ranking-System
    cd resume-ranker
+
+4. **Create Virtual Environment (optional but recommended)**
+   ```bash
+   python -m venv venv
+   # Activate it:
+   # Windows:
+   venv\Scripts\activate
+   # Mac/Linux:
+   source venv/bin/activate
+
+
+5. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
