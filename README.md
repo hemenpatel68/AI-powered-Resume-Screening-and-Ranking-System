@@ -15,13 +15,6 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 
 ---
 
-## 🖥️ Demo
-
-![screenshot](https://via.placeholder.com/1000x400.png?text=Demo+Screenshot+Placeholder)  
-*(Replace this with an actual screenshot of your app!)*
-
----
-
 ## 🛠️ Tech Stack
 
 | Tool       | Description                            |
@@ -60,3 +53,14 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 5. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
+
+5. **Run the App**
+   ```bash
+   streamlit run app.py
+
+---
+
+## 🖥️ Demo
+
+![screenshot](https://via.placeholder.com/1000x400.png?text=Demo+Screenshot+Placeholder)  
+*(Replace this with an actual screenshot of your app!)*
