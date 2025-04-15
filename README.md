@@ -37,6 +37,7 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 ## 📦  Setup Instructions
 
 1. **Prerequisites**
+
    Ensure your system has the following installed:
 
    - Python (>=3.8 recommended)
@@ -55,7 +56,6 @@ An intelligent web application built with **Python** and **Streamlit** that auto
    venv\Scripts\activate
    # Mac/Linux:
    source venv/bin/activate
-
 
 5. **Install Dependencies**
    ```bash
