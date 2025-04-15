@@ -41,7 +41,7 @@ An intelligent web application built with **Python** and **Streamlit** that auto
    git clone https://github.com/hemenpatel68/AI-powered-Resume-Screening-and-Ranking-System
    cd resume-ranker
 
-4. **Create Virtual Environment (optional but recommended)**
+3. **Create Virtual Environment (optional but recommended)**
    ```bash
    python -m venv venv
    # Activate it:
@@ -50,13 +50,9 @@ An intelligent web application built with **Python** and **Streamlit** that auto
    # Mac/Linux:
    source venv/bin/activate
 
-5. **Install Dependencies**
+4. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
-
-5. **Run the App**
-   ```bash
-   streamlit run app.py
 
 5. **Dependencies**
 
@@ -69,6 +65,10 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 
    ```bash
    pip install -r requirements.txt
+
+6. **Run the App**
+   ```bash
+   streamlit run app.py
 
 ---
 
