@@ -58,6 +58,18 @@ An intelligent web application built with **Python** and **Streamlit** that auto
    ```bash
    streamlit run app.py
 
+5. **Dependencies**
+
+   - Streamlit
+   - PyPDF2
+   - pandas
+   - scikit-learn
+
+   If needed, you can reinstall dependencies using:
+
+   ```bash
+   pip install -r requirements.txt
+
 ---
 
 ## 🖥️ Demo
