@@ -74,5 +74,5 @@ An intelligent web application built with **Python** and **Streamlit** that auto
 
 ## 🖥️ Demo
 
-![screenshot](C:\Users\USER\Desktop\resume screening)  
+![screenshot](https://via.placeholder.com/1000x400.png?text=Demo+Screenshot+Placeholder)  
 *(Replace this with an actual screenshot of your app!)*
